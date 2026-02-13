@@ -1,0 +1,16 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+
+# Audio files
+*.wav
+*.mp3
+*.m4a
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
